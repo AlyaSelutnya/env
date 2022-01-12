@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-12 01:33+0300\n"
+"PO-Revision-Date: 2022-01-12 01:25+0000\n"
+"Last-Translator: b'  <alevtina.seljutina@gmail.com>'\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Translated-Using: django-rosetta 0.9.0\n"
+
+#: .\cart\forms.py:8
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: .\coupons\forms.py:6
+msgid "Coupon"
+msgstr "Cupón"
+
+#: .\my_shop\settings.py:99
+msgid "English"
+msgstr "Inglés"
+
+#: .\my_shop\settings.py:100
+msgid "Spanish"
+msgstr "Español"
+
+#: .\my_shop\urls.py:22
+msgid "^cart/"
+msgstr ""
+
+#: .\my_shop\urls.py:23
+msgid "^orders/"
+msgstr ""
+
+#: .\my_shop\urls.py:24
+msgid "^payment/"
+msgstr ""
+
+#: .\shop\templates\shop\base.html:8 .\shop\templates\shop\base.html:14
+msgid "My shop"
+msgstr "Mi tienda"
+
+#: .\shop\templates\shop\base.html:20
+msgid "Your cart"
+msgstr "Tu carro"
+
+#: .\shop\templates\shop\base.html:22
+#, python-format
+msgid ""
+"\n"
+"                        %(total_items)s item%(total_items_plural)s,\n"
+"                        $%(total_price)s\n"
+"                    "
+msgstr ""
+
+#: .\shop\templates\shop\base.html:28
+msgid "Your cart is empty."
+msgstr "Tu carro está vacío."
+
+#: .\shop\templates\shop\product\detail.html:16
+msgid "Add to cart"
+msgstr "Añadir al carro"
